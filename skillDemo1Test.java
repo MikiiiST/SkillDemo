@@ -5,7 +5,7 @@ public class skillDemo1Test {
 
     @Test
     public void areaTester() {
-        assertEquals(8, 2*3);    //test that fails
+        assertEquals(6, 2*3);    //test that passes
     }
 
 }
